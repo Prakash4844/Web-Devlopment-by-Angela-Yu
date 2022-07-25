@@ -134,4 +134,73 @@ This is Horizontal Rule with size=5.
 <h3>    <center>This text will be centered. 
                     <br>
         So will this paragraph.</center>    </h3>
-    
+
+<!-- <p>: The Paragraph element
+    The <p> HTML element represents a paragraph. Paragraphs are usually represented in visual media as blocks of text separated from 
+    adjacent blocks by blank lines and/or first-line indentation, but HTML paragraphs can be any structural grouping of related content,
+    such as images or form fields.
+
+    Paragraphs are block-level elements, and notably will automatically close if another block-level element is parsed before the 
+    closing </p> tag.
+
+    Learn More: https://devdocs.io/html/element/p
+-->
+
+<h1>5. p (The Paragraph element):</h1>
+
+<p> This is the first paragraph of text.
+    This is the first paragraph of text.
+    This is the first paragraph of text.
+    This is the first paragraph of text. </p>
+
+<p> This is the second paragraph.
+    This is the second paragraph.
+    This is the second paragraph.
+    This is the second paragraph. </p>
+
+<!-- <em>: The Emphasis element
+    The <em> HTML element marks text that has stress emphasis. The <em> element can be nested, with each level of nesting indicating 
+    a greater degree of emphasis.
+
+    Learn More: https://devdocs.io/html/element/em
+-->
+
+<h1>6. em (The Emphasis element):</h1>
+
+<p>Get out of bed <em>now</em>!</p>
+
+<!-- <i></i>: The Idiomatic Text element
+    The <i> HTML element represents a range of text that is set off from the normal text for some reason, such as idiomatic text, 
+    technical terms, taxonomical designations, among others. Historically, these have been presented using italicized type, 
+    which is the original source of the <i> naming of this element.
+
+    Learn More: https://devdocs.io/html/element/i
+-->
+
+<h1>7. i (The Idiomatic Text element):</h1>
+
+<p>Get out of bed <i>now</i>!</p>
+
+<!-- <strong></strong>: The Strong Importance element
+    The <strong> HTML element indicates that its contents have strong importance, seriousness, or urgency. Browsers typically render 
+    the contents in bold type.
+
+    Learn More: https://devdocs.io/html/element/strong
+-->
+
+<h1>8. strong (The Strong Importance element):</h1>
+
+<p>Get out of bed <strong>now</strong>!</p>
+
+<!-- <b></b>: The Bold or The Bring Attention To element
+    The <b> HTML element is used to draw the reader's attention to the element's contents, which are not otherwise granted special 
+    importance. This was formerly known as the Boldface element, and most browsers still draw the text in boldface. However, 
+    you should not use <b> for styling text; instead, you should use the CSS font-weight property to create boldface text, 
+    or the <strong> element to indicate that text is of special importance.
+
+    Learn More: https://devdocs.io/html/element/b
+-->
+
+<h1>9. b (The Bold or The Bring Attention To element):</h1>
+
+<p>Get out of bed <b>now</b>!</p>
