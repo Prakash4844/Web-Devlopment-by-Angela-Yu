@@ -1,8 +1,27 @@
-# <center> Web Development Course By Angela Yu. </center>
+# <center> The Complete 2022 Web Development Bootcamp By Dr. Angela Yu. </center>
+
+## Description:
+<details>
+<summary>Collapse</summary>
+
+Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150,000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of Udemy! 
+
+At 65+ hours, this Web Development course is without a doubt the most comprehensive web development course available online. Even if you have zero programming experience, this course will take you from beginner to mastery.
+
+
+<p align="center">
+
+<img src = "https://user-images.githubusercontent.com/81550376/180720456-000f943e-4c35-4eb8-bdd2-d38fd97b8919.png">
+
+</p>
+
+</details>
+
 
 ## Course Content:
 
-1. HTML 🏗️
+<details>
+<summary>1. HTML 🏗️ </summary>
    
 	1.1 1_Introduction 🏗️
 
@@ -24,3 +43,5 @@
 	HTML_Code_PlayGround.html - 🏗️
 
 	HTML_Code_PlayGround.md - 🏗️
+	
+<details>
