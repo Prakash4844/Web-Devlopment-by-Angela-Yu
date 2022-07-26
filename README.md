@@ -44,6 +44,18 @@ At 65+ hours, this Web Development course is without a doubt the most comprehens
 			1.1.5.1 1_HTML-Personal_Site
 
 				1.1.5.1.1 Index.html - ✅
+
+		1.1.6 6_HTML_Lists
+
+			1.1.6.1 1_HTML-Personal_Site
+
+				1.1.6.1.1 Index.html - ✅
+
+		1.1.7 7_HTML_Images
+
+			1.1.7.1 1_HTML-Personal_Site
+
+				1.1.7.1.1 Index.html - ✅
 		
 		
 	1.2 2_Intermediate - ⏳
