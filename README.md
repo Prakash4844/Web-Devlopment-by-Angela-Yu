@@ -72,7 +72,5 @@ At 65+ hours, this Web Development course is without a doubt the most comprehens
 	1.2 2_Intermediate - ⏳
 	
 	HTML_Code_PlayGround.html - 🏗️
-
-	HTML_Code_PlayGround.md - 🏗️
 	
 <details>
