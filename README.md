@@ -85,4 +85,5 @@ At 65+ hours, this Web Development course is without a doubt the most comprehens
 	
 </details>
 <br>
+
 ### NOTE: The Structure of HTML Module is in greater detail so you get fimiliar with structure of content, further module will be listed in lesser details. 
