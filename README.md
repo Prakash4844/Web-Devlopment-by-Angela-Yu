@@ -80,7 +80,17 @@ At 65+ hours, this Web Development course is without a doubt the most comprehens
 				1.2.1.1.2 Hobbies.html - ✅
 
 				1.2.1.1.3 Contact.html - ✅
-	
+
+		1.2.2 2_HTML_Tables_Layout
+
+			1.2.2.1 1_HTML-Personal_Site
+
+				1.2.2.1.1 Index.html - ✅
+
+				1.2.2.1.2 Hobbies.html - ✅
+
+				1.2.2.1.3 Contact.html - ✅		
+				
 	HTML_Code_PlayGround.html - 🏗️
 	
 </details>
