@@ -126,6 +126,7 @@ At 65+ hours, this Web Development course is without a doubt the most comprehens
 	HTML_Code_PlayGround.html - 🏗️
 	
 </details>
+The Website made with pure HTML is published at: <a href="https://prakash4844.github.io/HTMLCV/">HTMLCV Website.</a>
 <br>
 
 ### NOTE: The Structure of HTML Module is in greater detail so you get fimiliar with structure of content, further module will be listed in lesser details. 
