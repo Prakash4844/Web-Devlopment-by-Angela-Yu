@@ -127,10 +127,16 @@ At 65+ hours, this Web Development course is without a doubt the most comprehens
 	
 </details>
 The Website made with pure HTML is published at: <a href="https://prakash4844.github.io/HTMLCV/">HTMLCV Website.</a>
+<br>
 
-<details>
+### NOTE: The Structure of HTML Module is in greater detail so you get fimiliar with structure of content, further module will be listed in lesser details. 
+
+<hr>
 
 <br>
+
+
+<details>
 
 <summary>2. CSS 🏗️ </summary>
 
@@ -144,6 +150,3 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 
 </details>
-<br>
-
-### NOTE: The Structure of HTML Module is in greater detail so you get fimiliar with structure of content, further module will be listed in lesser details. 
