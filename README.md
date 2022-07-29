@@ -24,7 +24,7 @@ At 65+ hours, this Web Development course is without a doubt the most comprehens
 
 <details>
 
-<summary>1. HTML 🏗️ </summary>
+<summary>1. HTML ✅ </summary>
    	
 	1.1 1_Introduction ✅
 
@@ -123,10 +123,27 @@ At 65+ hours, this Web Development course is without a doubt the most comprehens
 
 				1.2.5.1.3 Contact.html - ✅		
 				
-	HTML_Code_PlayGround.html - 🏗️
+	HTML_Code_PlayGround.html - ✅
 	
 </details>
 The Website made with pure HTML is published at: <a href="https://prakash4844.github.io/HTMLCV/">HTMLCV Website.</a>
+
+<details>
+
+<br>
+
+<summary>2. CSS 🏗️ </summary>
+
+	2.1 1_Introduction
+
+		2.1.1 1_CSS_Inline_css - ✅
+
+	2.2 2_Intermediate - 🏗️
+
+	CSS_Playground.html - 🏗️
+
+
+</details>
 <br>
 
 ### NOTE: The Structure of HTML Module is in greater detail so you get fimiliar with structure of content, further module will be listed in lesser details. 
