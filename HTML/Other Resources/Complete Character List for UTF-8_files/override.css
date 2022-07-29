@@ -1,0 +1,92 @@
+.headerlogo {
+    background-color: #EFEFEF;
+    margin: 0;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-top: 15px;
+}
+.navbar-inner {
+	border-radius: 0;
+}
+.navbar-inverse .navbar-link {
+	color: #ffffff;
+}
+body {
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #eee;
+    background: url("/images/background/light_toast.png") repeat scroll 0% 0% transparent;
+}
+.boxshadow {
+	background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+	-webkit-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    margin: 0px auto;
+}
+@media (max-width: 767px) {
+    /*
+    padding-left: 10px;
+    padding-right: 10px;
+    */
+}
+.navbar-inverse .brand {
+	color:white;
+	font-weight:bold;
+}
+.navbar-inner {
+    border-left: 0;
+    border-right: 0;
+}
+.navbar {
+	margin-bottom:0;
+}
+
+.navbar .input-append {
+	margin-bottom: 0;
+}
+
+.navbar-text {
+	line-height: 38px;
+}
+
+.navbar-link:hover, .navbar-link:focus {
+	color:white;
+}
+.navbar-link {
+	text-decoration:underline;
+}
+
+footer{
+	margin-top: 10px;
+	text-align:center;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+}
+.table-auto {
+	width: auto;
+}
+
+.table-list {
+	border: 1px solid #ddd;
+}
+.clickable {
+	cursor: pointer;
+}
+.table th.text-center, .table td.text-center {
+	text-align: center;
+}
+
+.table th.text-right, .table td.text-right {
+	text-align: right;
+}
+blockquote p {
+	font-size: inherit;
+}
+
+.well > form {
+	margin-bottom: -10px;
+}
