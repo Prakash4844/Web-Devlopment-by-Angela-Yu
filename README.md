@@ -150,6 +150,8 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 		2.1.4 4_CSS_Debug_CSS - ✅
 
+		2.1.5 5_CSS_Syntex - ✅
+
 	2.2 2_Intermediate - 🏗️
 
 	CSS_Playground.html - 🏗️
