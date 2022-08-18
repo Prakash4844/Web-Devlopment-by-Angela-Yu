@@ -1,0 +1,40 @@
+/*************TAG SELECTORS************/
+
+body {
+  background-color: rgb(194, 172, 214);
+}
+
+h1 {
+  font-size: 100px;
+  color: blueviolet;
+}
+
+
+img:hover {
+    background-color: gold;
+}
+
+
+/*************CLASS SELECTORS************/
+
+.Pizza {
+  background-color: green;
+}
+
+.Eggplant {
+  background-color: red;
+}
+
+.Head {
+  color: crimson;
+}
+
+.Circle {
+  border-radius: 100%;
+}
+
+/*************Id SELECTORS************/
+
+#Heading {
+  color: white;
+}
