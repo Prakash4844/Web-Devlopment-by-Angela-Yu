@@ -1,0 +1,31 @@
+/*************************HTML Tag Selectors***********************/
+div {
+    background-color: #FF5C58;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+/*************************Class Selectors***********************/
+
+.TopContainer {
+    background-color: #FF5C58;
+}
+    
+
+.MiddleContainer {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.BottomContainer {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
