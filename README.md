@@ -162,6 +162,8 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 		2.2.2 2_CSS-Fevicon - ✅
 
+		2.2.3 3_CSS-HTML-Divs - ✅
+
 	CSS_Playground.html - 🏗️
 
 
