@@ -168,6 +168,8 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 		2.2.5 5_CSS-Display_property - ✅
 
-		2.2.6 6_CSS-Positioning - ✅
+		2.2.6 6_CSS-Static-&-Relative-Positioning - ✅
+
+		2.2.7 7_CSS-Absolute-Positioning - ✅
 
 </details>
