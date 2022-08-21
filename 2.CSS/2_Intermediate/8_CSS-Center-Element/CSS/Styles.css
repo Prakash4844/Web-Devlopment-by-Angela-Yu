@@ -1,0 +1,52 @@
+/*************************HTML Tag Selectors***********************/
+div {
+    background-color: #FF5C58;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0 auto;
+    position: relative;
+    top: 30px;
+}
+
+p {
+    position: relative;
+    top: 20px;
+}
+/*************************Class Selectors***********************/
+
+.TopContainer {
+    background-color: #FF5C58; 
+    position: relative;
+    padding-top: 70px;
+}
+    
+
+.MiddleContainer {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.BottomContainer {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.TopCloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.BottomCloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
