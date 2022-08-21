@@ -13,11 +13,13 @@ h1 {
     position: relative;
     top: 60px;
     font-size: 70px;
+    color: #d13d3b;
 }
 
 p {
     position: relative;
     top: 40px;
+    color: #d13d3b;
 }
 /*************************Class Selectors***********************/
 
