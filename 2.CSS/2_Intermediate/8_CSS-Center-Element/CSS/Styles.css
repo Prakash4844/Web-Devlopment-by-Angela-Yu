@@ -11,12 +11,13 @@ body {
 h1 {
     margin: 0 auto;
     position: relative;
-    top: 30px;
+    top: 60px;
+    font-size: 70px;
 }
 
 p {
     position: relative;
-    top: 20px;
+    top: 40px;
 }
 /*************************Class Selectors***********************/
 
@@ -24,6 +25,7 @@ p {
     background-color: #FF5C58; 
     position: relative;
     padding-top: 70px;
+    height: 700px;
 }
     
 
@@ -40,13 +42,25 @@ p {
 }
 
 .TopCloud {
+    height: 70px;
+    width: auto;
     position: absolute;
-    right: 300px;
+    right: 180px;
     top: 50px;
 }
 
 .BottomCloud {
+    height: 70px;
+    width: auto;
     position: absolute;
-    left: 300px;
-    bottom: 300px;
+    left: 180px;
+    top: 220px;
+}
+
+.Mountain {
+    position: absolute;
+    left: 200px;
+    bottom: 0;
+    height: 500px;
+    text-align: center;
 }
