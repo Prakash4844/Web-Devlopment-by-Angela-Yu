@@ -178,4 +178,12 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 		2.2.10 10_CSS-Font-Family - ✅
 
+		2.2.11 11_Learn More About Typography - ✅
+
+		2.2.12 12_CSS-Site-Content - ✅
+
+		2.2.10 10_CSS-Sizing - ✅
+
+
+
 </details>
