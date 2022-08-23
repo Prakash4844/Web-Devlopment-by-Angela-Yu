@@ -1,0 +1,89 @@
+/*************************HTML Tag Selectors***********************/
+div {
+    /*background-color: #FF5C58;*/
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Merriweather,sans-serif;
+}
+
+h1 {
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+    font-size: 70px;
+    color: #d13d3b;
+    font-family: "Sacramento", sans-serif;
+}
+
+h2 {
+    font-family: Montserrat, sans-serif;
+}
+
+p {
+    position: relative;
+    top: 20px;
+    color: #d13d3b;
+    padding-bottom: 20px;
+}
+
+hr
+{
+    background-color: white; 
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #d13d3b;
+    width: 15%;
+    border-width: 4px;    
+}
+/*************************Class Selectors***********************/
+
+.TopContainer {
+    background-color: #FF5C58; 
+    position: relative;
+    padding-top: 70px;
+    height: 700px;
+}
+    
+
+.MiddleContainer {
+}
+
+.BottomContainer {
+}
+
+.TopCloud {
+    height: 70px;
+    width: auto;
+    position: absolute;
+    right: 180px;
+    top: 50px;
+}
+
+.BottomCloud {
+    height: 70px;
+    width: auto;
+    position: absolute;
+    left: 180px;
+    top: 220px;
+}
+
+.Mountain {
+    position: absolute;
+    left: 200px;
+    bottom: 0;
+    height: 500px;
+    text-align: center;
+}
+
+.Profile_Pic {
+    width: 250px;
+    border-radius: 50%;
+}
+
+.C_and_CPP {
+    width: 250px;
+    border-radius: 50%;
+}
