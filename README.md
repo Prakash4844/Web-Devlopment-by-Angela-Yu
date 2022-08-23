@@ -4,7 +4,7 @@ CourseLink: <a href="https://www.udemy.com/course/the-complete-web-development-b
 
 <details>
 
-<summary><h2>Description:</h2></summary>
+<summary>## Description:</summary>
 
 Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150,000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of Udemy! 
 
@@ -187,3 +187,6 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 
 </details>
+
+The Website made with HTML and Basic CSS is published at: <a href="https://prakash4844.github.io/Sample-CV-using-HTML-Basic-CSS/">HTML and Basic CSS CV Website.</a>
+<br>
