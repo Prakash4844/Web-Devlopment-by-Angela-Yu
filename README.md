@@ -202,5 +202,5 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 </details>
 
-The Website made with HTML and Basic CSS is published at: <a href="https://prakash4844.github.io/Sample-CV-using-HTML-Basic-CSS/">HTML and Basic CSS CV Website.</a>
+The Website made with HTML and Basic CSS is published at: <a href="https://prakash4844.github.io/Sample-CV-using-HTML-And-CSS/">HTML and Basic CSS CV Website.</a>
 <br>
