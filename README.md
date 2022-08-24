@@ -138,7 +138,7 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 <details>
 
-<summary>2. CSS 🏗️ </summary>
+<summary>2. CSS ✅ </summary>
 
 	2.1 1_Introduction
 
@@ -156,7 +156,7 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 		2.1.7 7_CSS_Classes_Vs_Ids - ✅
 
-	2.2 2_Intermediate - 🏗️
+	2.2 2_Intermediate - ✅
 
 		2.2.1 1_CSS-My-Site - ✅
 
@@ -192,7 +192,13 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 		2.2.17 17_All_Challenge_and_background - ✅
 
-		2.2.17 18_CSS_Float_and_Clear - ✅
+		2.2.18 18_CSS_Float_and_Clear - ✅
+
+		2.2.19 19_CSS_Final_Challenge - ✅
+
+		2.2.20 20_CSS_Final_Challenge_Completed - ✅
+
+		2.2.21 Optional_Practice - ✅
 
 </details>
 
