@@ -190,6 +190,8 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 		2.2.16 16_Challenge_3 - ✅
 
+		2.2.17 17_All_Challenge_and_background - ✅
+
 
 </details>
 
