@@ -1,0 +1,96 @@
+/*************************HTML Tag Selectors***********************/
+
+body {
+    font-family: Merriweather,sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: "Sacramento", sans-serif;
+    font-size: 5.625em;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+h2 {
+    font-family: Montserrat, sans-serif;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+a {
+    color: #66BFBF;
+}
+
+hr
+{
+    background-color: white;
+    border-color: #d13d3b;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    width: 15%;
+}
+/*************************Class Selectors***********************/
+
+.TopContainer {
+    background-color: #FF5C58;
+    height: 700px;
+    padding-top: 70px;
+    position: relative;
+}
+    
+
+.MiddleContainer {
+}
+
+.BottomContainer {
+}
+
+.TopCloud {
+    height: 70px;
+    position: absolute;
+    right: 180px;
+    top: 50px;
+    width: auto;
+}
+
+.BottomCloud {
+    height: 70px;
+    left: 180px;
+    position: absolute;
+    top: 250px;
+    width: auto;
+}
+
+.Mountain {
+    bottom: 0;
+    height: 500px;
+    left: 200px;
+    position: absolute;
+    text-align: center;
+}
+
+.Profile_Pic {
+    border-radius: 50%;
+    width: 250px;
+}
+
+.C_and_CPP {
+    border-radius: 50%;
+    width: 250px;
+}
+
+.description {
+    color: #66BFBF;
+    margin-top: 0.625rem;
+    position: relative;
+    top: 20px;
+    font-size: 1.5rem;
+}
