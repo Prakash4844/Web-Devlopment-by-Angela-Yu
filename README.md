@@ -192,6 +192,7 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 
 		2.2.17 17_All_Challenge_and_background - ✅
 
+		2.2.17 18_CSS_Float_and_Clear - ✅
 
 </details>
 

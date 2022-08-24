@@ -1,0 +1,133 @@
+/*************************HTML Tag Selectors***********************/
+
+body {
+    font-family: Merriweather,sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: "Sacramento", sans-serif;
+    font-size: 5.625em;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+h2 {
+    font-family: Montserrat, sans-serif;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+a {
+    color: #66BFBF;
+}
+
+hr
+{
+    background-color: white;
+    border-color: #66BFBF;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    width: 15%;
+}
+/*************************Class Selectors***********************/
+
+.TopContainer {
+    /*background-color: #FF5C58;*/
+    background-color: #e1f8f5;
+    height: 700px;
+    padding-top: 70px;
+    position: relative;
+}
+
+/*.MiddleContainer {
+    display: inline-block;
+    width: 50%;
+} */
+
+.skill-row {
+    display: inline-block;
+    width: 50%;
+    margin: 50px auto 0 auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.profile {
+    display: inline-block;
+    width: 60%;
+
+}
+
+.BottomContainer {
+
+}
+
+.TopCloud {
+    height: 70px;
+    position: absolute;
+    right: 180px;
+    top: 50px;
+    width: auto;
+}
+
+.BottomCloud {
+    height: 70px;
+    left: 180px;
+    position: absolute;
+    top: 250px;
+    width: auto;
+}
+
+.Mountain {
+    bottom: 0;
+    height: 500px;
+    left: 200px;
+    position: absolute;
+    text-align: center;
+}
+
+.Profile_Pic {
+    border-radius: 50%;
+    width: 250px;
+    margin: 50px auto 20px auto
+}
+
+.C_and_CPP-img {
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.Unity-img {
+    border-radius: 50%;
+    width: 25%; 
+    float: right;
+    margin-left: 30px;
+}
+
+.description {
+    color: #66BFBF;
+    font-weight: normal;
+    margin-top: 0.625rem;
+    position: relative;
+    top: 20px;
+    font-size: 1.5rem;
+    line-height: 2;
+}
+
+.MySkills {
+    margin-bottom: 0;
+}
+
+.contact-me {
+    margin-top: 50px;
+}
