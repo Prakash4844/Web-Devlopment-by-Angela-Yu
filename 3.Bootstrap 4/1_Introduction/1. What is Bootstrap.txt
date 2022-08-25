@@ -1,0 +1,55 @@
+Bootstrap is a free and open-source web development framework. It’s designed to ease the web development process of responsive, 
+mobile-first websites by providing a collection of syntax for template designs.
+
+In other words, Bootstrap helps web developers build websites faster as they don’t need to worry about basic commands and functions. 
+It consists of HTML, CSS, and JS-based scripts for various web design-related functions and components.
+
+=================================
+
+1. Bootstrap is open source
+
+Bootstrap was initially created as an internal tool used by Twitter but quickly became open source (free and publicly available to use). 
+Anyone can get Bootstrap for personal or commercial use.
+
+2. Bootstrap is a framework
+Part of designing a website is designing how different frames and menus are positioned on the page and in relation to each other. 
+Take a look at the menu and panel layouts on this webpage. All of this is programmed using Cascading Style Sheets (CSS).
+
+3. Bootstrap helps you create responsive websites
+Responsive websites are pages that easily adapt to different devices, platforms, and screen sizes. Whether you're visiting a website 
+on Chrome from your Android phone or your 27-inch iMac at home, you should see a version of the page with dimensions, buttons, 
+and fonts that don't look too big or too small.
+
+======================
+
+History of Bootstrap
+Bootstrap was developed by Mark Otto and Jacob Thornton at Twitter.It was released as an open source product in August 2011 on GitHub.
+
+In June 2014 Bootstrap was the No.1 project on GitHub.
+
+======================
+Why use Bootstrap
+Following are the main advantage of Bootstrap:
+
+It is very easy to use. Anybody having basic knowledge of HTML and CSS can use Bootstrap.
+It facilitates users to develop a responsive website.
+It is compatible on most of browsers like Chrome, Firefox, Internet Explorer, Safari and Opera etc.
+
+============================
+What is a responsive website
+A website is called responsive website which can automatically adjust itself to look good on all devices, 
+from smart phones to desktops etc.
+
+======================================
+
+What Bootstrap package contains
+Scaffolding: Bootstrap provides a basic structure with Grid System, link styles, and background.
+
+CSS: Bootstrap comes with the feature of global CSS settings, fundamental HTML elements style and an advanced grid system.
+
+Components: Bootstrap contains a lot of reusable components built to provide iconography, dropdowns, navigation, alerts, pop-overs, and much more.
+
+JavaScript Plugins: Bootstrap also contains a lot of custom jQuery plugins. You can easily include them all, or one by one.
+
+Customize: Bootstrap components are customizable and you can customize Bootstrap's components, LESS variables, and jQuery plugins to get your own style.
+
