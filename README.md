@@ -230,6 +230,10 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 		3.2.7 7_Set-up_New_Project - ✅
 
 		3.2.8 8_Bootstrap_grid - ✅
+
+		3.2.9 9_Get_Correct_GFont_weight - ✅
+
+		3.2.10 10_Tindog_grid - ✅
 	
 	
 	3.2 2_Introduction
