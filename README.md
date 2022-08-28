@@ -222,6 +222,8 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 		3.2.3 3_Wireframing - ✅
 
 		3.2.4 4_Bootstrap_Nevigation_bar - ✅
+
+		3.2.5 5_What_will_we_make - ✅
 	
 	
 	3.2 2_Introduction
