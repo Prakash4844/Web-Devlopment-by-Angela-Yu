@@ -224,6 +224,12 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 		3.2.4 4_Bootstrap_Nevigation_bar - ✅
 
 		3.2.5 5_What_will_we_make - ✅
+
+		3.2.6 6_Tindog_starting_file - ✅
+
+		3.2.7 7_Set-up_New_Project - ✅
+
+		3.2.8 8_Bootstrap_grid - ✅
 	
 	
 	3.2 2_Introduction
