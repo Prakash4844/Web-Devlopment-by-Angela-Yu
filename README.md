@@ -213,7 +213,7 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 
 <summary>3. Bootstrap 4 🏗 </summary>
 	
-	3.1 1_Introduction
+	3.1 1_Introduction - ✅
 		
 		3.1.1 1_What_is_Bootstrap - ✅
 
@@ -242,6 +242,10 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 		3.1.13 13_Bootstrap_Button&Font - ✅
 
 		3.1.14 14_Styling_Our_Website_Challenges - ✅
+
+		3.1.15 15_Bootstrap_Challenge_1 - ✅
+
+		3.1.16 16_Bootstrap_Challenge_1_Solution - ✅
 	
 	3.2 2_Introduction
 	
