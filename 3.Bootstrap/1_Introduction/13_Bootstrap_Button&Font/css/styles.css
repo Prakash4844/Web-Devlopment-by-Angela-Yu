@@ -1,0 +1,18 @@
+/* -----------------Tag Selectors---------------------- */
+h1 {
+    font-size: xx-large;
+    font-weight: 900;
+    size: 3rem;
+    line-height: 1.5;
+}
+
+/* -----------------Class Selectors-------------------- */
+.container-fluid {
+    padding: 3% 15%;
+}
+
+/* -----------------ID selectors----------------------- */
+
+#title {
+    background-color: #ff4c68;
+}

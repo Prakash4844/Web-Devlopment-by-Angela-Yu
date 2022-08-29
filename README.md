@@ -217,28 +217,31 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 		
 		3.1.1 1_What_is_Bootstrap - ✅
 
-		3.2.2 2_Install-Bootstrap - ✅
+		3.1.2 2_Install-Bootstrap - ✅
 
-		3.2.3 3_Wireframing - ✅
+		3.1.3 3_Wireframing - ✅
 
-		3.2.4 4_Bootstrap_Nevigation_bar - ✅
+		3.1.4 4_Bootstrap_Nevigation_bar - ✅
 
-		3.2.5 5_What_will_we_make - ✅
+		3.1.5 5_What_will_we_make - ✅
 
-		3.2.6 6_Tindog_starting_file - ✅
+		3.1.6 6_Tindog_starting_file - ✅
 
-		3.2.7 7_Set-up_New_Project - ✅
+		3.1.7 7_Set-up_New_Project - ✅
 
-		3.2.8 8_Bootstrap_grid - ✅
+		3.1.8 8_Bootstrap_grid - ✅
 
-		3.2.9 9_Get_Correct_GFont_weight - ✅
+		3.1.9 9_Get_Correct_GFont_weight - ✅
 
-		3.2.10 10_Tindog_grid - ✅
+		3.1.10 10_Tindog_grid - ✅
 
-		3.2.11 11_Bootstrap_Containers - ✅
+		3.1.11 11_CSS_order - ✅
 
-		3.2.12 12_Bootstrap_Containers - ✅
-	
+		3.1.12 12_Bootstrap_Containers - ✅
+
+		3.1.13 13_Bootstrap_Button&Font - ✅
+
+		3.1.14 14_Styling_Our_Website_Challenges - ✅
 	
 	3.2 2_Introduction
 	

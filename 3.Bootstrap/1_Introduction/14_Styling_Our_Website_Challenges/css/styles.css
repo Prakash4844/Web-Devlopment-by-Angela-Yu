@@ -1,0 +1,54 @@
+/* -----------------Tag Selectors---------------------- */
+h1 {
+    font-size: 3.3rem;
+    font-weight: 900;
+    line-height: 1.7;
+    color: white;
+}
+
+body {
+    font-family: Montserrat;
+}
+/* -----------------Class Selectors-------------------- */
+.container-fluid {
+    padding: 3% 10%;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    font-style: bold;
+    font-family: ubuntu, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.nav-item {
+    padding: 0 20px;
+    
+}
+
+.nav-link {
+    font-size: 20px;
+    font-family: Montserrat-Light;
+}
+
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+
+.Title-img {
+    transform: rotate(20deg);
+    /* height: 750px; */
+    width: 60%;
+    
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+/* -----------------ID selectors----------------------- */
+
+#title {
+    background-color: #fe3c72;
+    /* height: 700px; */
+    
+}
