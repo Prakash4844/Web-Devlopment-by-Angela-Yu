@@ -248,5 +248,7 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 		3.1.16 16_Bootstrap_Challenge_1_Solution - ✅
 	
 	3.2 2_Introduction
+
+		3.2.1 1_Bootstrap_Carousel_Part_1 - ✅
 	
 </details>
