@@ -252,5 +252,7 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 		3.2.1 1_Bootstrap_Carousel_Part_1 - ✅
 
 		3.2.2 2_Bootstrap_Carousel_Part_2 - ✅
+
+		3.2.3 3_Bootstrap_Card - ✅
 	
 </details>

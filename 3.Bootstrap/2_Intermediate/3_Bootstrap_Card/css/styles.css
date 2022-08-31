@@ -78,7 +78,11 @@ h2 {
   width: 10%;
   border-radius: 100%;
   margin: 20px;
-  
+}
+
+.testimonial-text {
+  padding: 0 110px;
+  margin-top: 20px;
 }
 .Press-img {
   width: 17%;
@@ -94,6 +98,34 @@ h2 {
   height: 350px;
 }
 
+.card-col {
+  padding: 30px;
+}
+
+.card-body {
+  height: 22rem;
+}
+
+.card-header {
+  background-color: #ef8172;
+  color: white;
+}
+
+.btn-price {
+  margin: 40px 0;
+  background-color: #ef8172;
+  border-color: #ef8172;
+}
+
+.btn-outline-danger {
+  margin: 40px 0;
+}
+
+.btn-price-con {
+  background-color: #ef8172;
+  border-color: #ef8172;
+}
+
 /* -----------------ID selectors----------------------- */
 #title {
   background-color: #fe3c72;
@@ -106,10 +138,11 @@ h2 {
 }
 
 #testimonials {
-  padding: 110px;
+  /* padding: 110px; */
   text-align: center;
   background-color: #ef8172;
   color: white;
+  height: 450px;
 }
 
 #press {
@@ -117,3 +150,8 @@ h2 {
   background-color: #ef8172; 
   padding-bottom: 3%;
 } 
+
+#pricing {
+  text-align: center;
+  padding: 50px;
+}
