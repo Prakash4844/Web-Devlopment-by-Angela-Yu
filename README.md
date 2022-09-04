@@ -256,4 +256,7 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 		3.2.3 3_Bootstrap_Card - ✅
 	
 		3.2.4 4_CSS_Z-index_&_stacking_Order - ✅
+
+		3.2.5 5_CSS_Media_Query_Breakpoints - ✅
+
 </details>
