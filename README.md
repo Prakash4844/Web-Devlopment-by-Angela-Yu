@@ -261,4 +261,6 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 
 		3.2.6 6_Bootstrap_footer_challenge - ✅
 
+		3.2.7 7_Why_Refactor- ✅
+
 </details>
