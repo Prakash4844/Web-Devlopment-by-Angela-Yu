@@ -267,4 +267,6 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 
 		3.2.9 9_Combining Selectors - ✅
 
+		3.2.10 10_Refactor_Part-2 - ✅
+
 </details>

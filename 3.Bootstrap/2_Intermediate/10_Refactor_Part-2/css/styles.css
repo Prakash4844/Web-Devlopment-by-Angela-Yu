@@ -1,0 +1,302 @@
+/* ----------------- HTML Tag Selectors ---------------------- */
+
+body {
+  font-family: Montserrat, sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+}
+
+/* ----------------- Class Selectors -------------------- */
+
+.white-section {
+  background-color: white;
+}
+
+.colored-section {
+  background-color: #ef8172;
+  color: white;
+  border-color: #ef8172;
+}
+
+.container-fluid {
+  padding: 7% 10%;
+}
+
+/* ====== Nevbar ======= */
+.navbar-brand {
+  font-size: 40px;
+  font-style: bold;
+  font-family: ubuntu, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+.nav-item {
+  padding: 0 20px;
+}
+
+.nav-link {
+  font-size: 20px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+/* ====== Title/CTA ======= */
+ #title .container-fluid {
+  padding: 3% 10% 10%
+ }
+
+.motto, .cta-text {
+  font-size: 3.3rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+.download-btn {
+  margin: 5% 3% 5% 0;
+}
+
+.Title-img {
+  transform: rotate(20deg);
+  width: 25%;
+  position: absolute;
+  right: 20%;
+}
+
+.fa-solid {
+  color: #ef8172;
+  padding-bottom: 10px;
+}
+
+.fa-solid:hover {
+  color: #ff4c68;
+}
+
+/* ====== features ======= */
+
+.feature-text {
+  size: 1.5rem;
+}
+
+.feat-contain {
+  padding-bottom: 20px;
+}
+
+.feature-subheading {
+  color: #8f8f8f;
+  margin-bottom: 60px;
+}
+
+/* ====== Testimonials ======= */
+.Testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.testimonial-text {
+  padding: 0 110px;
+  margin-top: 20px;
+  font-size: 3rem;
+  line-height: 3.5rem;
+
+}
+
+.Press-img {
+  width: 17%;
+  padding: 0 10px;
+  margin: 20px;
+}
+
+.carousel-indicators {
+  bottom: -40px;
+}
+
+.carousel-item {
+  height: 350px;
+}
+
+/* ====== Price cards ======= */
+
+.section-heading {
+  font-size: 3rem;
+  margin-bottom: 25px;
+}
+
+.pricing-name {
+  size: 1.5rem;
+}
+
+.pricing-text {
+  font-size: 3rem;
+  line-height: 3.5rem;
+}
+
+.card-col {
+  padding: 30px;
+}
+
+.card-body {
+  height: 22rem;
+}
+
+.btn-price {
+  margin: 40px 0;
+}
+
+.btn-outline-danger {
+  margin: 40px 0;
+}
+
+/* ============== Copyright ================ */
+.copyright {
+  color: #9d918e;
+}
+
+/* ============== Footer ================ */
+.footer-ico {
+  padding: 7px;
+  color: black;
+}
+
+.footer-ico:hover {
+  color: #ff4c68;
+}
+
+/* -----------------ID selectors----------------------- */
+#title {
+  background-color: #fe3c72;
+  text-align: left;
+}
+
+#features {
+  position: relative;
+}
+
+#testimonials {
+  height: 450px;
+}
+
+#press {
+  padding-bottom: 3%;
+}
+
+#pricing {
+  padding: 50px;
+}
+
+#cta{
+  background-color: #ff4c68;
+  padding: 70px 100px 100px 100px;
+}
+
+#footer {
+  padding: 40px 100px 40px 100px;
+}
+
+/* ---------------------- Media Queries ------------------- */
+
+@media (max-width: 1077px) {
+  .testimonial-text {
+  margin: 0 5px;
+  }
+
+  .pricing-text {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .Title-img {
+    transform: rotate(0);
+    width: 60%;
+    position: static;
+  }
+
+  #title {
+    text-align: center;
+  }
+
+  #testimonials {
+    height: 400px;
+  }
+
+  #press {
+    padding: 30px 0;
+  }
+
+  .carousel-inner {
+    padding-bottom: 60px;
+  }
+
+  .Press-img {
+    width: 20%;
+  }
+}
+
+@media (max-width: 791px) {
+  .testimonial-text {
+    margin: 0 5px;
+    font-size: 2rem;
+  }
+
+  .carousel-indicators {
+    bottom: -20px;
+  }
+
+  .Press-img {
+    width: 25%;
+  }
+
+  .carousel-inner {
+    padding-bottom: 20px;
+  }
+  
+}
+
+@media (max-width: 611px) {
+  .testimonial-text {
+    margin: 0 5px;
+    font-size: 1.8rem;
+  }
+
+  .Press-img {
+    width: 23%;
+  }
+}
+
+@media (max-width: 575px) {
+  .testimonial-text {
+    margin: 0 5px;
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 536px) {
+  .testimonial-text {
+    margin: 0 5px;
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 503px) {
+  .testimonial-text {
+    margin: 0 5px;
+    font-size: 1.3rem;
+  }
+
+  .carousel-indicators {
+    bottom: 0px;
+  }
+
+  .Press-img {
+    width: 30%;
+  }
+}
