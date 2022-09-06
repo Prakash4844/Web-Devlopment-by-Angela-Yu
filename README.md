@@ -211,7 +211,7 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 
 <details>
 
-<summary>3. Bootstrap 4 🏗 </summary>
+<summary>3. Bootstrap 4 ✅ </summary>
 	
 	3.1 1_Introduction - ✅
 		
@@ -272,5 +272,18 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 		3.2.11 11_Completed_website - ✅
 
 		3.2.12 12_Angela_Website_Files - ✅
+
+</details>
+Tindog Site made with HTML, CSS, Bootstrap: <a href="https://prakash4844.github.io/Tindog/">TinDog</a>
+<br>
+<hr>
+
+<br>
+<details>
+<summary>4.Sample Projects ✅</summary>
+
+	4.1 Basic Flipkart Clone - ✅
+	
+	4.2 Sign Up & Login Page - ✅
 
 </details>
