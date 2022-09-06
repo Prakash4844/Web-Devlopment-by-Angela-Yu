@@ -155,6 +155,8 @@ The Website made with pure HTML is published at: <a href="https://prakash4844.gi
 		2.1.6 6_CSS_Selectors - ✅ 
 
 		2.1.7 7_CSS_Classes_Vs_Ids - ✅
+		
+-------------------------------------------------------------------------------	
 
 	2.2 2_Intermediate - ✅
 
@@ -246,6 +248,8 @@ The Website made with HTML and Basic CSS is published at: <a href="https://praka
 		3.1.15 15_Bootstrap_Challenge_1 - ✅
 
 		3.1.16 16_Bootstrap_Challenge_1_Solution - ✅
+		
+-------------------------------------------------------------------------------	
 	
 	3.2 2_Intermediate ✅
 
