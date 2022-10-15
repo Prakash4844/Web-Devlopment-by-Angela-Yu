@@ -284,10 +284,23 @@ Tindog Site made with HTML, CSS, Bootstrap: <a href="https://prakash4844.github.
 
 <br>
 <details>
-<summary>4.Sample Projects ✅</summary>
+<summary>4. Sample Projects ✅</summary>
 
 	4.1 Basic Flipkart Clone - ✅
 	
 	4.2 Sign Up & Login Page - ✅
+
+</details>
+<br>
+<hr>
+
+<br>
+<details>
+<summary>5. JavaScript 🏗</summary>
+
+	5.1 1_Introduction Javascript ES6 🏗
+
+		5.1.1 1.Alerts ✅
+	
 
 </details>
