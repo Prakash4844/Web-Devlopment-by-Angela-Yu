@@ -298,6 +298,10 @@ Tindog Site made with HTML, CSS, Bootstrap: <a href="https://prakash4844.github.
 <details>
 <summary>5. JavaScript 🏗</summary>
 
+	This module is done in Browser >> Developer tools >> Console
+	or
+	This module is done in Browser >> Developer tools >> Sources >> New Snippet >> Index.js
+
 	5.1 1_Introduction Javascript ES6 🏗
 
 		5.1.1 1.Alerts ✅
