@@ -314,7 +314,17 @@ Tindog Site made with HTML, CSS, Bootstrap: <a href="https://prakash4844.github.
 
 		5.1.5 5.Variable Exercise Solution - ✅
 
-		5.1.6 6.6.Naming Conventions - ✅
+		5.1.6 6.Naming Conventions - ✅
+
+		5.1.7 7.String Concatenation - ✅
+
+		5.1.8 8.String Length - ✅
+
+		5.1.9 9.String Slice - ✅
+
+		5.1.10 10.String character casing challenge - ✅
+
+		5.1.10 10.String character casing challenge Solution - ✅
 	
 
 </details>
