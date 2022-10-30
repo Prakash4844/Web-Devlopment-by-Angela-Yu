@@ -324,7 +324,7 @@ Tindog Site made with HTML, CSS, Bootstrap: <a href="https://prakash4844.github.
 
 		5.1.10 10.String character casing challenge - ✅
 
-		5.1.10 10.String character casing challenge Solution - ✅
+		5.1.11 11.String character casing challenge Solution - ✅
 	
 
 </details>
